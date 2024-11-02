@@ -41,8 +41,7 @@
 
  ✌️ &emsp; Enjoy to do programming and love to see the output <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: chiragjain.jain7@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/chiragjain307/chiragjain307/issues)
+ 📧 &emsp; Reach me anytime:tavatariprasad191201@gmail.com<br/><br/>
 
 </p>
 
@@ -74,13 +73,6 @@
 <!-- ![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white) -->
 <!-- ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white) -->
 <br/>
-
-## Top Open Source -
-
-[![Portfolio-Website](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=Portfolio-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/Portfolio-Website)
-[![Chirag Jain Readme](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=chiragjain307&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/chiragjain307)
-[![Weather-WebApp](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=Weather-WebApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/Weather-WebApp)
-[![Todo-WebApp](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=Todo-WebApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/Todo-WebApp)
 
 <p align="left">
   <a href="https://github.com/chiragjain307?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
