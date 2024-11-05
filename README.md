@@ -65,7 +65,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://github.com/chiragjain307?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/PRASADTHAVATARI?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Support:</h3>
@@ -75,17 +75,6 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/chiragjain307">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjain307&theme=radical&border=7F3FBF&background=0D1117" alt="Chirag's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chirag307">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragjain307&theme=radical" alt="Chirag's GitHub Contribution"/>
-  </a>
-</p>
 
 
 
