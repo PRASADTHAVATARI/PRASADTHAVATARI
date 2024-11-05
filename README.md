@@ -13,7 +13,7 @@
 
 
 <p align="center">
- <a href="https://chirags-portfolio.vercel.app" target="blank">
+ <a href="https://tprasad191201.wixsite.com/tavatari-prasad">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
  </a>
  <a href="https://www.linkedin.com/in/chirag-jain-77aa30148/" target="_blank">
